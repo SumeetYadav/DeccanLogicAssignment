@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DeccanLogicAssignment/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/DeccanLogicAssignment/static/js/main.33b6760d.chunk.js",
+    "main.js.map": "/DeccanLogicAssignment/static/js/main.33b6760d.chunk.js.map",
+    "runtime-main.js": "/DeccanLogicAssignment/static/js/runtime-main.e23e3f58.js",
+    "runtime-main.js.map": "/DeccanLogicAssignment/static/js/runtime-main.e23e3f58.js.map",
+    "static/css/2.046848f9.chunk.css": "/DeccanLogicAssignment/static/css/2.046848f9.chunk.css",
+    "static/js/2.04765afe.chunk.js": "/DeccanLogicAssignment/static/js/2.04765afe.chunk.js",
+    "static/js/2.04765afe.chunk.js.map": "/DeccanLogicAssignment/static/js/2.04765afe.chunk.js.map",
+    "static/js/3.0fb02613.chunk.js": "/DeccanLogicAssignment/static/js/3.0fb02613.chunk.js",
+    "static/js/3.0fb02613.chunk.js.map": "/DeccanLogicAssignment/static/js/3.0fb02613.chunk.js.map",
+    "index.html": "/DeccanLogicAssignment/index.html",
+    "static/css/2.046848f9.chunk.css.map": "/DeccanLogicAssignment/static/css/2.046848f9.chunk.css.map",
+    "static/css/main.ab7136cd.chunk.css.map": "/DeccanLogicAssignment/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.04765afe.chunk.js.LICENSE.txt": "/DeccanLogicAssignment/static/js/2.04765afe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e23e3f58.js",
+    "static/css/2.046848f9.chunk.css",
+    "static/js/2.04765afe.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.33b6760d.chunk.js"
+  ]
+}
