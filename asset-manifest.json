@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DeccanLogicAssignment/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/DeccanLogicAssignment/static/js/main.33b6760d.chunk.js",
-    "main.js.map": "/DeccanLogicAssignment/static/js/main.33b6760d.chunk.js.map",
+    "main.js": "/DeccanLogicAssignment/static/js/main.d56c355c.chunk.js",
+    "main.js.map": "/DeccanLogicAssignment/static/js/main.d56c355c.chunk.js.map",
     "runtime-main.js": "/DeccanLogicAssignment/static/js/runtime-main.e23e3f58.js",
     "runtime-main.js.map": "/DeccanLogicAssignment/static/js/runtime-main.e23e3f58.js.map",
     "static/css/2.046848f9.chunk.css": "/DeccanLogicAssignment/static/css/2.046848f9.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.046848f9.chunk.css",
     "static/js/2.04765afe.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.33b6760d.chunk.js"
+    "static/js/main.d56c355c.chunk.js"
   ]
 }
